@@ -42,13 +42,20 @@ Proyecto académico en **Java** siguiendo el patrón **MVC**, enfocado en la **i
 
 ### 🤖 Trabajo de Fin de Grado (TFG) – Chatbot de gestión de incidencias  
 Desarrollo de un **módulo escalable de agentes conversacionales** para entornos corporativos, basado en estructuras clave-valor y con integración de IA generativa.  
-📥 [Descargar dossier del TFG (ZIP)](ENLACE_AL_ZIP)
+📥 [Descargar dossier del TFG (ZIP)](./Dossier_TFG_DanielGarciaNilo.zip)
 
 ---
 
 ### ⚽ FutbolData  
 Proyecto de análisis y visualización de datos de fútbol en **Python**, con generación de mapas de calor y estadísticas avanzadas por jugador.  
 🔗 [Repositorio](https://github.com/danielgarciaN/Futbol-data)
+
+---
+
+### 🏆 Tofu Awards  
+Página web desarrollada con **React**, **Firebase** y **JavaScript** para la **votación online de premios** organizada con amigos.  
+Un proyecto divertido que demuestra mi experiencia en **frontend moderno** y **backend en la nube**.  
+🔗 [Repositorio](https://github.com/danielgarciaN/tofu-awards)
 
 ---
 
