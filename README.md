@@ -1,8 +1,11 @@
 # 👋 Hola, soy Daniel García Nilo  
 
-💻 Estudiante de cuarto de **Ingeniería Informática** en la **Universidad Autónoma de Barcelona**  
-Apasionado por la **IA**, el desarrollo de **chatbots** y los **sistemas distribuidos**.  
-Con experiencia práctica en entornos corporativos exigentes, busco crecer en el mundo profesional aportando innovación y soluciones eficientes.  
+🎓 Graduado en **Ingeniería Informática** por la **Universidad Autónoma de Barcelona**.  
+Apasionado por la **tecnología**, con especial interés en la **IA**, el **Big Data** y los **sistemas distribuidos**.  
+
+Me destaco por mi **capacidad de comunicación**, **trabajo en equipo** y **adaptabilidad**, cualidades que me han permitido integrarme eficazmente en entornos corporativos exigentes y colaborar en proyectos multidisciplinares.  
+
+En el futuro quiero seguir formándome mediante **másters** y especializarme en **Big Data**, con el objetivo de evolucionar hacia roles de **Project Manager** o **Product Owner**, liderando proyectos innovadores que aporten valor real.   
 
 ---
 
@@ -33,7 +36,7 @@ Con experiencia práctica en entornos corporativos exigentes, busco crecer en el
 
 ### ⚓ Battleship Game  
 Proyecto académico en **Java** siguiendo el patrón **MVC**, enfocado en la **implementación de tests (TDD)** y cobertura completa de código.  
-🔗 [Repositorio](https://github.com/TU_USUARIO/Battleship)
+🔗 [Repositorio](https://github.com/danielgarciaN/battleship-tqs)
 
 ---
 
@@ -45,7 +48,7 @@ Desarrollo de un **módulo escalable de agentes conversacionales** para entornos
 
 ### ⚽ FutbolData  
 Proyecto de análisis y visualización de datos de fútbol en **Python**, con generación de mapas de calor y estadísticas avanzadas por jugador.  
-🔗 [Repositorio](https://github.com/TU_USUARIO/FutbolData)
+🔗 [Repositorio](https://github.com/danielgarciaN/Futbol-data)
 
 ---
 
@@ -56,6 +59,6 @@ Proyecto de análisis y visualización de datos de fútbol en **Python**, con ge
 ---
 
 ## 🌍 Conecta conmigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/TU_LINKEDIN)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/danielgarcianilo)  
 📧 danielgarcianilo1@gmail.com  
 📱 +34 644 41 01 49
