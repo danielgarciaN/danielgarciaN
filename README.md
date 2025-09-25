@@ -60,8 +60,8 @@ Un proyecto divertido que demuestra mi experiencia en **frontend moderno** y **b
 ---
 
 ## 📊 Estadísticas
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=danielgarciaN&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgarciaN&layout=compact&theme=tokyonight)
 
 ---
 
