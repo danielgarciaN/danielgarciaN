@@ -1,15 +1,15 @@
-# 👋 Hola, soy Daniel García Nilo  
+# 👋 Hi, I'm Daniel García Nilo  
 
-🎓 Graduado en **Ingeniería Informática** por la **Universidad Autónoma de Barcelona**.  
-Apasionado por la **tecnología**, con especial interés en la **IA**, el **Big Data** y los **sistemas distribuidos**.  
+🎓 Graduate in **Computer Engineering** from the **Autonomous University of Barcelona**.  
+Passionate about **technology**, with a strong interest in **AI**, **Big Data**, and **distributed systems**.  
 
-Me destaco por mi **capacidad de comunicación**, **trabajo en equipo** y **adaptabilidad**, cualidades que me han permitido integrarme eficazmente en entornos corporativos exigentes y colaborar en proyectos multidisciplinares.  
+I stand out for my **communication skills**, **teamwork**, and **adaptability**, qualities that have allowed me to integrate effectively into demanding corporate environments and collaborate in multidisciplinary projects.  
 
-En el futuro quiero seguir formándome mediante **másters** y especializarme en **Big Data**, con el objetivo de evolucionar hacia roles de **Project Manager** o **Product Owner**, liderando proyectos innovadores que aporten valor real.   
+In the future, I want to continue developing through **master’s degrees** and specialize in **Big Data**, with the goal of evolving into roles such as **Project Manager** or **Product Owner**, leading innovative projects that deliver real value.  
 
 ---
 
-## 🚀 Tecnologías y herramientas
+## 🚀 Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -21,51 +21,51 @@ En el futuro quiero seguir formándome mediante **másters** y especializarme en
 
 ---
 
-## 🏢 Experiencia destacada
+## 🏢 Professional Experience
 
-### 💼 Becario en Grupo Catalana Occident – Departamento de Arquitectura  
-- Desarrollo en el módulo **IATech** (infraestructura basada en IA).  
-- Implementación de lógica de negocio en **.NET y C#** y pantallas de gestión con **JavaScript/GAAN**.  
-- Integración con **bases de datos SQL** y optimización de servicios y APIs.  
-- Análisis de **replicación en Google Cloud Platform (GCP)**.  
-- Metodologías ágiles (**JIRA, trabajo en equipo multidisciplinar**).  
+### 💼 Intern at Grupo Catalana Occident – Architecture Department  
+- Development in the **IATech** module (AI-based infrastructure).  
+- Business logic implementation in **.NET and C#** and management screens with **JavaScript/GAAN**.  
+- Integration with **SQL databases** and optimization of services and APIs.  
+- Analysis of **replication in Google Cloud Platform (GCP)**.  
+- Agile methodologies (**JIRA, multidisciplinary teamwork**).  
 
 ---
 
-## 📌 Proyectos destacados
+## 📌 Featured Projects
 
 ### ⚓ Battleship Game  
-Proyecto académico en **Java** siguiendo el patrón **MVC**, enfocado en la **implementación de tests (TDD)** y cobertura completa de código.  
-🔗 [Repositorio](https://github.com/danielgarciaN/battleship-tqs)
+Academic project in **Java** following the **MVC** pattern, focused on **test-driven development (TDD)** and full code coverage.  
+🔗 [Repository](https://github.com/danielgarciaN/battleship-tqs)
 
 ---
 
-### 🤖 Trabajo de Fin de Grado (TFG) – Chatbot de gestión de incidencias  
-Desarrollo de un **módulo escalable de agentes conversacionales** para entornos corporativos, basado en estructuras clave-valor y con integración de IA generativa.  
-📥 [Descargar dossier del TFG (ZIP)](./Dossier_TFG_DanielGarciaNilo.zip)
+### 🤖 Final Degree Project – Incident Management Chatbot  
+Development of a **scalable conversational agents module** for corporate environments, based on key-value structures and integrated with generative AI.  
+📥 [Download TFG dossier (ZIP)](./Dossier_TFG_DanielGarciaNilo.zip)
 
 ---
 
 ### ⚽ FutbolData  
-Proyecto de análisis y visualización de datos de fútbol en **Python**, con generación de mapas de calor y estadísticas avanzadas por jugador.  
-🔗 [Repositorio](https://github.com/danielgarciaN/Futbol-data)
+Football data analysis and visualization project in **Python**, generating heat maps and advanced player statistics.  
+🔗 [Repository](https://github.com/danielgarciaN/Futbol-data)
 
 ---
 
 ### 🏆 Tofu Awards  
-Página web desarrollada con **React**, **Firebase** y **JavaScript** para la **votación online de premios** organizada con amigos.  
-Un proyecto divertido que demuestra mi experiencia en **frontend moderno** y **backend en la nube**.  
-🔗 [Repositorio](https://github.com/danielgarciaN/tofu-awards)
+Website developed with **React**, **Firebase**, and **JavaScript** for an **online award voting system** organized with friends.  
+A fun project that demonstrates my skills in **modern frontend** and **cloud backend** development.  
+🔗 [Repository](https://github.com/danielgarciaN/tofu-awards)
 
 ---
 
-## 📊 Estadísticas
+## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=danielgarciaN&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgarciaN&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌍 Conecta conmigo
+## 🌍 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/danielgarcianilo)  
 📧 danielgarcianilo1@gmail.com  
 📱 +34 644 41 01 49
