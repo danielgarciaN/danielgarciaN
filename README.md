@@ -1,19 +1,19 @@
 <h1 align="center">Daniel García Nilo</h1>
 
 <p align="center">
-AI • Data Science • Backend • Intelligent Systems
+Data Analyst • Data Science • Business Intelligence • Data Engineering
 </p>
 
 <p align="center">
-Building intelligent products, scalable systems and data-driven solutions.
+Turning data into insights through analytics, visualization, machine learning and technology.
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/AI%20Engineering-0D1117?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-0D1117?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business%20Intelligence-0D1117?style=for-the-badge&logo=powerbi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Science-0D1117?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Backend%20Development-0D1117?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/SaaS%20Products-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Engineering-0D1117?style=for-the-badge&logo=snowflake&logoColor=white"/>
 
 </p>
 
@@ -21,86 +21,99 @@ Building intelligent products, scalable systems and data-driven solutions.
 
 # About Me
 
-Computer Engineer focused on:
+Computer Engineer currently working as a **Data Analyst at SDG Group**, with a background in Software Engineering and a growing specialization in Data Analytics, Data Science and Data Engineering.
 
-- Artificial Intelligence
-- Data Science
-- Backend Development
-- Intelligent Systems
-- SaaS Products
-- Analytics Platforms
+I enjoy working across the full data lifecycle:
 
-I enjoy building products that combine:
-- AI
-- Data-driven decision making
-- Scalable backend systems
-- Automation
-- Modern SaaS experiences
-- Business-oriented technology
+- extracting and transforming data
+- building reliable datasets
+- analysing business information
+- creating dashboards and KPIs
+- applying statistical and Machine Learning techniques
+- translating technical results into actionable business insights
 
-Currently expanding my expertise in:
-- AI Engineering
+My software engineering background also allows me to approach data projects with a strong understanding of:
+
+- backend systems
+- APIs
+- databases
+- automation
+- software architecture
+
+Currently working and learning across:
+
+- Data Analytics
+- Business Intelligence
+- SQL
+- Power BI
+- Snowflake
+- ETL / ELT
 - Machine Learning
-- Marketing Analytics
-- Intelligent Agents
-- Data Platforms
-- LLM Applications
+- Statistical Analysis
+- Data Visualization
+- Data Modeling
 
 ---
 
 # Tech Stack
 
-## Languages
+## Data Analytics & Business Intelligence
+
+<p>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistics-0D1117?style=for-the-badge"/>
+
+</p>
+
+---
+
+## Data Engineering & Databases
+
+<p>
+
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL%20%2F%20ELT-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Modeling-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+</p>
+
+---
+
+## Data Science & Machine Learning
 
 <p>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-</p>
-
----
-
-## Frameworks & Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
-</p>
-
----
-
-## AI & Data
-
-<p>
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/SHAP-0D1117?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-0D1117?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## Databases & Cloud
+## Software Engineering
 
 <p>
 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase"/>
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 </p>
 
@@ -108,7 +121,7 @@ Currently expanding my expertise in:
 
 <div align="center">
 
-### Currently building AI-powered products & analytics platforms
+### Data Analytics • Business Intelligence • Machine Learning • Data Engineering
 
 </div>
 
@@ -116,22 +129,47 @@ Currently expanding my expertise in:
 
 # Professional Experience
 
-## Grupo Catalana Occidente — Software Developer Intern
+## SDG Group — Data Analyst
 
-Worked on enterprise internal solutions related to:
-- backend development
-- APIs
-- automation
-- AI-related systems
-- business process optimization
+Currently working as a Data Analyst in data consulting projects, with a focus on enterprise data environments and business-oriented analytics.
+
+### Main areas
+
+- SQL querying and data analysis
+- Data extraction, transformation and validation
+- ETL / ELT processes
+- Data quality checks
+- Data preparation for reporting and analytics
+- Working with relational datasets
+- Supporting data pipelines
+- Data transformation and integration
+- Documentation of data processes
+- Collaboration with technical and consulting teams
+
+### Technologies
+
+- SQL
+- Snowflake
+- Informatica
+- ETL / ELT
+- Data Analytics
+
+---
+
+## Occident — Software Developer Intern
+
+Previous experience in enterprise software development, which now provides a strong engineering foundation for my work in Data.
 
 ### Main responsibilities
 
 - Development using .NET and C#
 - SQL database integration
 - Internal business applications
-- Service optimization
+- Backend development
 - API integrations
+- Automation
+- Service optimization
+- AI-related systems
 - Agile collaboration
 - Technical analysis and documentation
 
@@ -141,21 +179,28 @@ Worked on enterprise internal solutions related to:
 
 | Project | Description | Stack |
 |---|---|---|
-| AI Marketing Intelligence Platform | Customer segmentation, campaign recommendations and AI-generated business insights | Python, FastAPI, Next.js |
-| Incident Management Chatbot | Enterprise conversational agent architecture integrated with generative AI | .NET, C#, AI |
-| FutbolData | Football analytics and visualization platform with heatmaps and advanced statistics | Python, Pandas |
-| Tofu Awards | Interactive online voting platform | React, Firebase |
+| Global Electronics Retail Analytics | End-to-end Business Intelligence project including Power Query, data modeling, DAX, KPIs and interactive Power BI dashboards | Power BI, Power Query, DAX |
+| Hotel Booking Cancellation Prediction | Machine Learning classification project for predicting hotel booking cancellations with temporal validation, threshold optimization and SHAP explainability | Python, Scikit-learn, SHAP |
+| StatsBomb SQL Analytics | Relational database and SQL analytics project designed to extract business and performance insights from football data | SQL, MySQL, Data Modeling |
+| Expected Goals XG StatsBomb | Football data analytics project focused on expected goals and performance analysis using StatsBomb data | Python, Data Analytics |
+| Statistical Sales Analysis | Statistical analysis and multiple linear regression project focused on identifying factors associated with sales revenue | Python, Statistics, Regression |
+| TFG — Chatbot Module | Enterprise conversational system integrating software architecture and generative AI | .NET, C#, AI |
 
 ---
 
 # Current Focus
 
-- AI Engineering
-- Intelligent Systems
+- Data Analytics
+- Business Intelligence
+- SQL
+- Power BI
+- Snowflake
+- ETL / ELT
+- Data Engineering
 - Machine Learning
-- Marketing Analytics
-- SaaS Platforms
-- Data-driven products
+- Statistical Analysis
+- Data Visualization
+- Business-oriented insights
 
 ---
 
@@ -199,7 +244,8 @@ Worked on enterprise internal solutions related to:
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://danielgarcianilo.com">
+<img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-Portfolio:
-- https://danielgarcianilo.com
+</p>
